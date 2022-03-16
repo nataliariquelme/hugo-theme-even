@@ -8,7 +8,7 @@ categories: ["Materiales"]
 
 ---
 
-# Proyecto
+# ¿Dónde puedo encontar los materiales de este taller?
 
 En el taller trabajaremos con R Studio Cloud, en el siguiente link: https://rstudio.cloud/project/3744316
 
