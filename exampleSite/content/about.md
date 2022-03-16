@@ -14,4 +14,4 @@ Como iniciativa de diversidad, la misión de R-Ladies es lograr una representaci
 
 El objetivo principal de R-Ladies, por lo tanto, es apoyar a los entusiastas de R de los géneros minoritarios para que alcancen su potencial de programación, mediante la construcción de una red global de colaboración de líderes, mentores, aprendices y desarrolladores de R para facilitar el progreso individual y colectivo en todo el mundo.
 
-Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator
+
